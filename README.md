@@ -2,7 +2,7 @@
 电商项目
 通用Mapper的使用
 1、搭建module
- 
+ 创建的时候，git里面parent最好写某个盘就行了，然后下面的是写工程名
 依赖选Web和Mysql, Jdbc,MyBatis
  
 
